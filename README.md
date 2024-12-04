@@ -2,6 +2,9 @@ This is the final projct of Jiajun Guo's STAT 507 course. It's a classification 
 
 The model training and validating is run on ./model/train_valid.py.
 The model testing is run on ./model/test.py.
+
 Trainset: ./data/train.jsonl
+
 validset: ./data/fake_news_validation.jsonl
+
 testset: ./data/fake_news_test.jsonl
